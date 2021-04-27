@@ -14,7 +14,7 @@ const SimpleHabit = () => {
   return (
     <li className="habit">
       <span ref={spanRef} className="habit-name">
-        Reading
+        Readingaaa
       </span>
       <span className="habit-count">{count}</span>
       <button className="habit-button habit-increase" onClick={handleIncrement}>
